@@ -3,12 +3,16 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently the Scholarly Communications Librarian at UNSW Sydney. I support academics to share and publish their research. My interests include open access, research data management, metadata and digital scholarship. 
 
-## Current Interests and Projects:
+I hold qualifications in music performance, musicology and information management, including a PhD from UNSW Sydney. I have presented and published on topics including persistent identifiers, data publication workflows, linked data for jazz research, music psychology and Baroque performance practice. 
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+If you would like to talk about scholarly communication or are interested in collaborating on a project, please contact me via email or Twitter. 
+
+### Current interests:
+
+- Scholarly communication
+- Open access, open data, open science
+- Digital musicology
+- Linked data
+- Repositories
