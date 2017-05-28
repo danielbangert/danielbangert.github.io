@@ -53,7 +53,7 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2013
 
-**Bangert, D.**, Fabian, D., & Schubert, E. (2013). Doing without thinking? Aspects of musical decision-making revisited. In A. Williamon, W. Goebl (Eds.), *Proceedings of the International Symposium on Performance Science* (p. 201). Utrecht, The Netherlands: European Association of Conservatoires (AEC). <a href="http://www.performancescience.org/ISPS2013/Proceedings/Rows/051Paper_Bangert%20DX.pdf" target="_blank">PDF</a>
+**Bangert, D.**, Fabian, D., & Schubert, E. (2013). Doing without thinking? Aspects of musical decision-making revisited. In A. Williamon & W. Goebl (Eds.), *Proceedings of the International Symposium on Performance Science* (p. 201). Utrecht, The Netherlands: European Association of Conservatoires (AEC). <a href="http://www.performancescience.org/ISPS2013/Proceedings/Rows/051Paper_Bangert%20DX.pdf" target="_blank">PDF</a>
 
 ### 2012
 
@@ -61,7 +61,7 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2010
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, WA: University of Washington. 
+**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, & P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, WA: University of Washington. 
 
 ### 2009
 
