@@ -40,9 +40,9 @@ Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for m
 
 ### 2014
 
-**Bangert, D.** (2014). Expressivity. In W. F. Thompson (Ed.), *Music in the social and behavioral sciences: An encyclopedia* (pp. 442-445). Thousand Oaks, CA: Sage. <a href="https://doi.org/10.4135/9781452283012.n148" target="_blank">DOI</a>
+**Bangert, D.** (2014). Expressivity. In W. F. Thompson (Ed.), *Music in the social and behavioral sciences: An encyclopedia* (pp. 442-445). Thousand Oaks, CA: SAGE. <a href="https://doi.org/10.4135/9781452283012.n148" target="_blank">DOI</a>
 
-**Bangert, D.** (2014). Ornamentation. In W. F. Thompson (Ed.), *Music in the social and behavioral sciences: An encyclopedia* (pp. 830-833). Thousand Oaks, CA: Sage. <a href="https://doi.org/10.4135/9781452283012.n281" target="_blank">DOI</a>
+**Bangert, D.** (2014). Ornamentation. In W. F. Thompson (Ed.), *Music in the social and behavioral sciences: An encyclopedia* (pp. 830-833). Thousand Oaks, CA: SAGE. <a href="https://doi.org/10.4135/9781452283012.n281" target="_blank">DOI</a>
 
 **Bangert, D.** (2014). Baroque violin music. *Early Music, 42*(2), 309-312. <a href="https://doi.org/10.1093/em/cau050" target="_blank">DOI</a>
 
@@ -61,7 +61,7 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2010
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition (pp. 313-314). Seattle, Washington: University of Washington. 
+**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, Washington: University of Washington. 
 
 ### 2009
 
