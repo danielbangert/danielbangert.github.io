@@ -24,9 +24,9 @@ Garrido, S., **Bangert, D.** & Schubert, E. (2017). Mood induction studies: Dist
 
 ### 2016
 
-**Bangert, D.** & Frances, M. (2016, November). *Cite my thesis? DOIs for grey literature.* CAUL Research Repositories Community Event 2016, Sydney. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
+**Bangert, D.** & Frances, M. (2016, November). *Cite my thesis? DOIs for grey literature.* CAUL Research Repositories 2016, Sydney. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
 
-**Bangert, D.** (2016). *JazzCats Body and Soul discography* [Data set]. Zenodo. <a href="http://doi.org/10.5281/zenodo.163886" target="_blank">DOI</a>
+**Bangert, D.** (2016). *JazzCats Body and Soul discography* [dataset]. Zenodo. <a href="http://doi.org/10.5281/zenodo.163886" target="_blank">DOI</a>
 
 Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for mood improvement: A mixed methods study. *The Arts in Psychotherapy, 51,* 46–53. <a href="https://doi.org/10.1016/j.aip.2016.09.002" target="_blank">DOI</a>
 
@@ -61,14 +61,14 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2010
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, Washington: University of Washington. 
+**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, WA: University of Washington. 
 
 ### 2009
 
 **Bangert, D.** (2009). Doing without thinking? Aspects of musical decision-making. In A. Williamon, S. Pretty, & R. Buck (Eds.), *Proceedings of the International Symposium on Performance Science* (pp. 403-408). Utrecht, The Netherlands: European Association of Conservatoires (AEC). <a href="http://www.performancescience.org/ISPS2009/Proceedings/Rows/067Bangert.pdf" target="_blank">PDF</a>
 
 **Bangert, D.**, Schubert, E., & Fabian, D. (2009). Decision-making in unpracticed and practiced 
-performances of Baroque violin music. In C. Stevens, E. Schubert, B. Kruithof, K. Buckley, & S. Fazio (Eds.), *Proceedings of the International Conference on Music Communication Science* (pp. 3-6). Sydney, Australia: HCSNet, University of Western Sydney. <a href="http://www.academia.edu/download/44721735/Decision-making_in_unpracticed_and_pract20160414-5140-zwro62.pdf" target="_blank">PDF</a>
+performances of Baroque violin music. In C. Stevens, E. Schubert, B. Kruithof, K. Buckley, & S. Fazio (Eds.), *Proceedings of the International Conference on Music Communication Science* (pp. 3-6). Sydney: HCSNet, University of Western Sydney. <a href="http://www.academia.edu/download/44721735/Decision-making_in_unpracticed_and_pract20160414-5140-zwro62.pdf" target="_blank">PDF</a>
 
 
 <!-- ### Footer
