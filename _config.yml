@@ -7,22 +7,22 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Daniel Bangert
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
+  bio: "I'm a librarian."
+  email: d.bangert@unsw.edu.au
+  twitter: enigmaticocean
   facebook: #username
   instagram: #username
-  linkedin: #username
-  github: #username
-  researchgate: #username
+  linkedin: daniel-bangert-24b6a647
+  github: danielbangert
+  researchgate: Daniel_Bangert
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: Bfs4d6sAAAAJ
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
