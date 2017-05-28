@@ -2,7 +2,7 @@
 layout: page
 title: Events
 ---
-###Upcoming events
+### Upcoming events
 
 <a href="http://2017.jcdl.org/" target="_blank">ACM/IEEE-CS Joint Conference on Digital Libraries</a>
 
