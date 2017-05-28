@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Daniel Bangert
+locale:           en_AU
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Daniel Bangert
-  avatar: bio-photo.jpg
+  avatar: db.png
   bio: "I'm a librarian."
   email: d.bangert@unsw.edu.au
   twitter: enigmaticocean
