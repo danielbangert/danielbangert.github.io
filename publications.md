@@ -14,7 +14,7 @@ Frances, M., **Bangert, D.**, Betbeder-Matibet, L., van Ham, C., McEachern, S., 
 
 Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbeder-Matibet, L. (2017, May). *Moving data around: Integrated research workflows for curating, and publishing data.* IASSIST 2017, Lawrence KS. <a href="http://handle.unsw.edu.au/1959.4/unsworks_44372" target="_blank">Handle</a>
 
-**Bangert, D.** (2017, May). *DOIs to support citation of grey literature.* Webinar hosted by the Australian National Data Service. 
+**Bangert, D.** (2017, May). *DOIs to support citation of grey literature.* Webinar hosted by the Australian National Data Service. <a href="https://youtu.be/hRNDBZhUfUA" target="_blank">YouTube</a>
 
 Mitra, P., Sheng, M., Sidhunata, H., & **Bangert, D.** (2017). *UNSW DOI Service* [software]. Zenodo. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
 

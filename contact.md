@@ -2,7 +2,7 @@
 layout: page
 title: Contact Me
 ---
-Send me an <a href="mailto:d.bangert@unsw.edu.au">email</a>. 
+Send me an <a href="mailto:d.bangert@unsw.edu.au">email</a>! 
 
 <a href="https://twitter.com/enigmaticocean" class="twitter-follow-button" data-show-count="false">Follow @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
