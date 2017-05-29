@@ -18,7 +18,7 @@ Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbe
 
 Mitra, P., Sheng, M., Sidhunata, H., & **Bangert, D.** (2017). *UNSW DOI Service* [software]. Zenodo. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
 
-Garrido, S., **Bangert, D.** & Schubert, E. (2017). Mood induction studies: Distinguishing between emotional response and long-term mood impacts of music. *SAGE Research Methods Cases.* <a href="http://doi.org/10.4135/9781473974760" target="_blank">DOI</a>
+Garrido, S., **Bangert, D.**, & Schubert, E. (2017). Mood induction studies: Distinguishing between emotional response and long-term mood impacts of music. *SAGE Research Methods Cases.* <a href="http://doi.org/10.4135/9781473974760" target="_blank">DOI</a>
 
 ### 2016
 
