@@ -13,4 +13,4 @@ title: Links
 
 <a href="http://msa.org.au/" target="_blank">Musicological Society of Australia</a>
 
-<a href="https://twitter.com/intent/tweet?screen_name=enigmaticocean" class="twitter-mention-button" data-show-count="false">Tweet to @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/enigmaticocean">Tweets by enigmaticocean</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
