@@ -14,3 +14,5 @@ If you would like to talk about scholarly communication or are interested in col
 - Research data management
 - Digital musicology
 - Linked data
+
+<a href="https://twitter.com/enigmaticocean" class="twitter-follow-button" data-show-count="false">Follow @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
