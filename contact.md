@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Events
+title: Contact Me
 ---
+Send me an <a href="mailto:d.bangert@unsw.edu.au">email</a>. 
+
+<a href="https://twitter.com/enigmaticocean" class="twitter-follow-button" data-show-count="false">Follow @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Upcoming events
 
 <a href="http://2017.jcdl.org/" target="_blank">ACM/IEEE-CS Joint Conference on Digital Libraries</a>
