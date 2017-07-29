@@ -6,11 +6,11 @@ title: Publications
 
 Nurmikko-Fuller, T., **Bangert, D.**, & Abdul-Rahman, A. (2017, August). *All the things you are: Accessing an enriched musicological prosopography through JazzCats.* Digital Humanities 2017, Montreal.
 
-Frances, M., **Bangert, D.**, Betbeder-Matibet, L., van Ham, C., McEachern, S., & McDougall, J. (2017, June). *Moving data around: Integrating repositories with research workflows for curating and publishing data.* Open Repositories 2017, Brisbane.
+Frances, M., **Bangert, D.**, Betbeder-Matibet, L., van Ham, C., McEachern, S., & McDougall, J. (2017, June). *Moving data around: Integrating repositories with research workflows for curating and publishing data.* Open Repositories 2017, Brisbane. <a href="https://www.youtube.com/watch?v=rhObqW3Pwqk&feature=youtu.be" target="_blank">YouTube</a>
 
 **Bangert, D.**, Abdul-Rahman, A., & Nurmikko-Fuller, T. (2017, June). *JazzCats: A collection of aggregated RDF triples tracing performance history through musicological data.* Rich Semantics and Direct Representation for Digital Collections 2017, Toronto.  
 
-**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. 
+**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. <a href="http://handle.unsw.edu.au/1959.4/unsworks_45617" target="_blank">Handle</a>
 
 Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbeder-Matibet, L. (2017, May). *Moving data around: Integrated research workflows for curating, and publishing data.* IASSIST 2017, Lawrence KS. <a href="http://handle.unsw.edu.au/1959.4/unsworks_44372" target="_blank">Handle</a>
 
