@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+Open access versions of my publications are available via  <a href="http://bit.ly/2hhD414" target="_blank">UNSWorks, UNSW's insitutional repository</a>
+
 ### 2017
 
 Nurmikko-Fuller, T., **Bangert, D.**, & Abdul-Rahman, A. (2017, August). *All the things you are: Accessing an enriched musicological prosopography through JazzCats.* Digital Humanities 2017, Montreal.
