@@ -12,21 +12,21 @@ Frances, M., **Bangert, D.**, Betbeder-Matibet, L., van Ham, C., McEachern, S., 
 
 **Bangert, D.**, Abdul-Rahman, A., & Nurmikko-Fuller, T. (2017, June). *JazzCats: A collection of aggregated RDF triples tracing performance history through musicological data.* Rich Semantics and Direct Representation for Digital Collections 2017, Toronto.  
 
-**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. <a href="http://handle.unsw.edu.au/1959.4/unsworks_45617" target="_blank">Handle</a>
+**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. <a href="https://doi.org/10.1109/JCDL.2017.7991610" target="_blank">DOI</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_45617" target="_blank">Handle (Open Access)</a>
 
-Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbeder-Matibet, L. (2017, May). *Moving data around: Integrated research workflows for curating, and publishing data.* IASSIST 2017, Lawrence KS. <a href="http://handle.unsw.edu.au/1959.4/unsworks_44372" target="_blank">Handle</a>
+Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbeder-Matibet, L. (2017, May). *Moving data around: Integrated research workflows for curating, and publishing data.* IASSIST 2017, Lawrence KS. <a href="http://handle.unsw.edu.au/1959.4/unsworks_44372" target="_blank">Handle (Open Access)</a>
 
 **Bangert, D.** (2017, May). *DOIs to support citation of grey literature.* Webinar hosted by the Australian National Data Service. <a href="https://youtu.be/hRNDBZhUfUA" target="_blank">YouTube</a>
 
-Mitra, P., Sheng, M., Sidhunata, H., & **Bangert, D.** (2017). *UNSW DOI Service* [software]. Zenodo. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
+Mitra, P., Sheng, M., Sidhunata, H., & **Bangert, D.** (2017). *UNSW DOI Service* [software]. Zenodo. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI (Open Access)</a>
 
 Garrido, S., **Bangert, D.**, & Schubert, E. (2017). Mood induction studies: Distinguishing between emotional response and long-term mood impacts of music. *SAGE Research Methods Cases.* <a href="http://doi.org/10.4135/9781473974760" target="_blank">DOI</a>
 
 ### 2016
 
-**Bangert, D.** & Frances, M. (2016, November). *Cite my thesis? DOIs for grey literature.* CAUL Research Repositories 2016, Sydney. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI</a>
+**Bangert, D.** & Frances, M. (2016, November). *Cite my thesis? DOIs for grey literature.* CAUL Research Repositories 2016, Sydney. <a href="http://doi.org/10.5281/zenodo.582692" target="_blank">DOI (Open Access)</a>
 
-**Bangert, D.** (2016). *JazzCats Body and Soul discography* [dataset]. Zenodo. <a href="http://doi.org/10.5281/zenodo.163886" target="_blank">DOI</a>
+**Bangert, D.** (2016). *JazzCats Body and Soul discography* [dataset]. Zenodo. <a href="http://doi.org/10.5281/zenodo.163886" target="_blank">DOI (Open Access)</a>
 
 Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for mood improvement: A mixed methods study. *The Arts in Psychotherapy, 51,* 46–53. <a href="https://doi.org/10.1016/j.aip.2016.09.002" target="_blank">DOI</a>
 
@@ -36,7 +36,7 @@ Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for m
 
 ### 2015
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2015). Practice thoughts and performance action: Observing processes of musical decision-making. *Music Performance Research.* <a href="http://mpr-online.net/Issues/Volume%207%20%5B2015%5D/MPR0092%20Bangert,%20Schubert%20and%20Fabian%20(2015).pdf" target="_blank">PDF</a>
+**Bangert, D.**, Schubert, E., & Fabian, D. (2015). Practice thoughts and performance action: Observing processes of musical decision-making. *Music Performance Research.* <a href="http://handle.unsw.edu.au/1959.4/unsworks_45803" target="_blank">Handle (Open Access)</a>
 
 ### 2014
 
@@ -46,7 +46,7 @@ Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for m
 
 **Bangert, D.** (2014). Baroque violin music. *Early Music, 42*(2), 309-312. <a href="https://doi.org/10.1093/em/cau050" target="_blank">DOI</a>
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2014). A spiral model of musical decision-making. *Frontiers in Psychology, 5.* <a href="https://doi.org/10.3389/fpsyg.2014.00320" target="_blank">DOI</a>
+**Bangert, D.**, Schubert, E., & Fabian, D. (2014). A spiral model of musical decision-making. *Frontiers in Psychology, 5.* <a href="https://doi.org/10.3389/fpsyg.2014.00320" target="_blank">DOI (Open Access)</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_45551" target="_blank">Handle (Open Access)</a>
 
 **Bangert, D.**, Fabian, D., Schubert, E., & Yeadon, D. (2014). Performing solo Bach: A case study 
 of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://doi.org/10.1177/1029864913509812" target="_blank">DOI</a>
@@ -57,7 +57,7 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2012
 
-**Bangert, D.** (2012). *Doing without thinking? Processes of decision-making in period instrument performance.* PhD thesis. Sydney: University of New South Wales. <a href="https://doi.org/10.4225/53/58BCA28D2A79A" target="_blank">DOI</a>
+**Bangert, D.** (2012). *Doing without thinking? Processes of decision-making in period instrument performance.* PhD thesis. Sydney: University of New South Wales. <a href="https://doi.org/10.4225/53/58BCA28D2A79A" target="_blank">DOI (Open Access)</a>
 
 ### 2010
 
