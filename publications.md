@@ -12,7 +12,7 @@ Frances, M., **Bangert, D.**, Betbeder-Matibet, L., van Ham, C., McEachern, S., 
 
 **Bangert, D.**, Abdul-Rahman, A., & Nurmikko-Fuller, T. (2017, June). *JazzCats: A collection of aggregated RDF triples tracing performance history through musicological data.* Rich Semantics and Direct Representation for Digital Collections 2017, Toronto.  
 
-**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. <a href="https://doi.org/10.1109/JCDL.2017.7991610" target="_blank">DOI</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_45617" target="_blank">Handle (Open Access)</a>
+**Bangert, D.** & Frances, M. (2017, June). *PIDs to support discovery and citation: Persistent identifier service design and delivery at UNSW Library.* ACM/IEEE-CS Joint Conference on Digital Libraries 2017, Toronto. <a href="https://doi.org/10.1109/JCDL.2017.7991610" target="_blank">DOI</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_45617" target="_blank">Handle (Open Access)</a> <a img width="32" alt="Open Access logo PLoS transparent" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/32px-Open_Access_logo_PLoS_transparent.svg.png"/></a>
 
 Frances, M., McEachern, S., **Bangert, D.**, van Ham, C., McDougall, J., & Betbeder-Matibet, L. (2017, May). *Moving data around: Integrated research workflows for curating, and publishing data.* IASSIST 2017, Lawrence KS. <a href="http://handle.unsw.edu.au/1959.4/unsworks_44372" target="_blank">Handle (Open Access)</a>
 
