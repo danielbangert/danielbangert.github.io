@@ -15,4 +15,4 @@ If you would like to talk about scholarly communication or are interested in col
 - Open access, open data, open science
 - Research data management
 - Digital musicology
-- Linked data
+- Music psychology
