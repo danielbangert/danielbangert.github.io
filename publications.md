@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Open access versions of my publications are available via  <a href="http://bit.ly/2hhD414" target="_blank">UNSWorks, UNSW's insitutional repository</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Open access versions of my publications are available via  <a href="https://www.unsworks.unsw.edu.au/primo-explore/search?query=creator,exact,%20Bangert,%20D,OR&query=creator,exact,Bangert,%20Daniel,AND&tab=unsworks_tab&search_scope=unsw_search_author_scope&sortby=rank&vid=UNSWORKS&mode=advanced&offset=0" target="_blank">UNSWorks, UNSW's insitutional repository</a>
 
 ### 2017
 
