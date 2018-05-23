@@ -8,4 +8,4 @@ title: Projects
 
 <a href="http://jazzcats.oerc.ox.ac.uk/" target="_blank">Visit the *JazzCats* website</a>
 
-Collaborators: <a href="https://researchers.anu.edu.au/researchers/nurmikko-fuller-t" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University) & <a href="http://thisisalfie.com/" target="_blank">Alfie Abdul-Rahman</a> (University of Oxford)
+Collaborators: <a href="https://researchers.anu.edu.au/researchers/nurmikko-fuller-t" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University)

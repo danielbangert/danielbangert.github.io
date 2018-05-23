@@ -8,6 +8,4 @@ Send me an <a href="mailto:bangert@sub.uni-goettingen.de">email</a>
 
 ### Upcoming events
 
-<a href="http://www.eresearch.uni-goettingen.de/content/pre-rda-symposium" target="_blank">Pre-RDA Symposium - The critical role of university RDM infrastructure in transforming data to knowledge</a>
-
-<a href="https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany" target="_blank">Research Data Alliance Plenary 11</a>
+<a href="http://www.carpentrycon.org/" target="_blank">CarpentryCon 2018, Dublin</a>
