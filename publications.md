@@ -7,7 +7,7 @@ title: Publications
 
 ### 2018
 
-Nurmikko-Fuller, T., **Bangert, D.**, Dix, A., Weigl, D., & Page, K. (2018). Building prototypes aggregating musicological datasets on the Semantic Web. *Bibliothek Forschung und Praxis*. <a href="https://www.degruyter.com/view/j/bfup.2018.42.issue-2/bfp-2018-0025/bfp-2018-0025.xml" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a>
+Nurmikko-Fuller, T., **Bangert, D.**, Dix, A., Weigl, D., & Page, K. (2018). Building prototypes aggregating musicological datasets on the Semantic Web. *Bibliothek Forschung und Praxis*. <a href="https://doi.org/10.1515/bfp-2018-0025" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a>
 
 ### 2017
 
