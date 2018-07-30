@@ -9,6 +9,8 @@ title: Publications
 
 Nurmikko-Fuller, T., **Bangert, D.**, Hao, Y., & Downie, J. S. (2018, October). *Swinging Triples: Bridging jazz performance datasets using Linked Data.* <a href="http://saam.semanticaudio.ac.uk/" target="_blank">Semantic Applications for Audio and Music 2018</a>, Monterey, California.
 
+**Bangert, D.**, Nurmikko-Fuller, T., Downie, J. S., & Hao, Y.  (2018, September). *JazzCats: Navigating an RDF triplestore of integrated performance metadata.* <a href="https://dlfm.web.ox.ac.uk/" target="_blank">5th International Conference on Digital Libraries for Musicology</a>, Paris.
+
 Nurmikko-Fuller, T., **Bangert, D.**, Dix, A., Weigl, D., & Page, K. (2018). Building prototypes aggregating musicological datasets on the Semantic Web. *Bibliothek Forschung und Praxis, 42*(2), 206–221. <a href="https://doi.org/10.1515/bfp-2018-0025" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a>
 
 ### 2017
