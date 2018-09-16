@@ -16,6 +16,6 @@ The <a href="https://www.rd-alliance.org/" target="_blank">Research Data Allianc
 
 *JazzCats (Jazz Collection of Aggregated Triples)* is a prototype digital musicology project for studying jazz artists, performances, and networks. The project harnesses Semantic Web technologies to connect data about jazz, including discographies, solo transcriptions, and information about artists. 
 
-<a href="http://jazzcats.oerc.ox.ac.uk/" target="_blank">Visit the *JazzCats* website</a>
+<a href="http://jazzcats.cdhr.anu.edu.au/" target="_blank">Visit the *JazzCats* website</a>
 
 Collaborators: <a href="https://researchers.anu.edu.au/researchers/nurmikko-fuller-t" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University)
