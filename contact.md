@@ -6,10 +6,14 @@ Send an <a href="mailto:bangert@sub.uni-goettingen.de">email</a>
 
 <a href="https://twitter.com/enigmaticocean" class="twitter-follow-button" data-show-count="false">Follow @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Upcoming events
+### Links
 
-<a href="https://dlfm.web.ox.ac.uk/workshops/dlfm-2018/programme" target="_blank">Digital Libraries for Musicology, 28 September 2018</a>
+<a href="https://www.rd-alliance.org/" target="_blank">Research Data Alliance</a>
 
-<a href="https://www.digitalinfrastructures.eu/" target="_blank">Digital Infrastructures for Europe, 9-11 October 2018</a>
+<a href="https://carpentries.org/" target="_blank">The Carpentries</a>
 
-<a href="http://www.internationaldataweek.org/" target="_blank">International Data Week / RDA Plenary 12, 5-8 November 2018</a>
+<a href="https://librarycarpentry.org/" target="_blank">Library Carpentry</a>
+
+<a href="https://www.sub.uni-goettingen.de/" target="_blank">Göttingen State and University Library</a>
+
+<a href="https://subugoe.shinyapps.io/open-science-networks/" target="_blank">European Open Science Networks (beta)</a>
