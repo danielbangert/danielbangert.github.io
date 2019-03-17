@@ -8,11 +8,17 @@ The <a href="https://www.rd-alliance.org/" target="_blank">Research Data Allianc
 
 <a href="https://www.rd-alliance.org/rda-europe" target="_blank">RDA Europe 4.0</a>, the European plug-in to RDA, is mandated to ensure that European political, research, industrial and digital infrastructure stakeholders are aware of, engaged with and actively involved in the global RDA activities.
 
-### OpenAIRE-Advance
+### FAIRsFAIR
+
+FAIRsFAIR: Fostering FAIR Data Practices in Europe is an EU-funded project involving 22 Partners across Europe with the ambition to assist the European Open Science Cloud (EOSC) governance bodies to deliver FAIR-aligned Rules of Participation in the EOSC. FAIRsFAIR will open up and share all knowledge, expertise, guidelines, implementations, new trajectories, courses and education needed to turn FAIR Principles into reality. The project will thus contribute to a culture change necessary to achieve wide adoption of FAIR practices within the EOSC and beyond.
+
+### *Previous projects*
+
+#### OpenAIRE-Advance
 
 <a href="https://www.openaire.eu/advance" target="_blank">OpenAIRE-Advance</a> continues the mission of OpenAIRE to support the Open Access/Open Data mandates in Europe. By sustaining the current successful infrastructure, comprised of a human network and robust technical services, it consolidates its achievements while working to shift the momentum among its communities to Open Science, aiming to be a trusted e-Infrastructure within the realms of the European Open Science Cloud.
 
-### JazzCats
+#### JazzCats
 
 *JazzCats (Jazz Collection of Aggregated Triples)* is a prototype digital musicology project for studying jazz artists, performances, and networks. The project harnesses Semantic Web technologies to connect data about jazz, including discographies, solo transcriptions, and information about artists. 
 

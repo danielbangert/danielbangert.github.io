@@ -12,9 +12,13 @@ Send an <a href="mailto:bangert@sub.uni-goettingen.de">email</a>
 
 <a href="https://www.rd-alliance.org/" target="_blank">Research Data Alliance</a>
 
+<a href="https://www.fairsfair.eu/" target="_blank">FAIRsFAIR</a>
+
 <a href="https://carpentries.org/" target="_blank">The Carpentries</a>
 
 <a href="https://librarycarpentry.org/" target="_blank">Library Carpentry</a>
+
+<a href="https://jlsc-pub.org/" target="_blank">Journal of Librarianship and Scholarly Communication</a>
 
 <a href="https://www.sub.uni-goettingen.de/" target="_blank">Göttingen State and University Library</a>
 

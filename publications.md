@@ -5,6 +5,10 @@ title: Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+### 2019
+
+Leinweber, K. & **Bangert, D.** (2019, March). *Moderne Hands-on Workshops mithilfe der Software/Data/Library Carpentries.* Bibliothekskongress 2019, Leipzig. 
+
 ### 2018
 
 Nurmikko-Fuller, T., **Bangert, D.**, Hao, Y., & Downie, J. S. (2018, October). *Swinging Triples: Bridging jazz performance datasets using Linked Data.* Semantic Applications for Audio and Music 2018, Monterey, California. <a href="https://doi.org/10.1145/3243907.3243914" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a>
