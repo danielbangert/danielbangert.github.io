@@ -7,7 +7,7 @@ title: Publications
 
 ### 2019
 
-Leinweber, K. & **Bangert, D.** (2019, March). *Moderne Hands-on Workshops mithilfe der Software/Data/Library Carpentries.* Bibliothekskongress 2019, Leipzig. 
+Leinweber, K. & **Bangert, D.** (2019, March). *Moderne Hands-on Workshops mithilfe der Software/Data/Library Carpentries.* 108th Deutscher Bibliothekartag & 7th Bibliothekskongress 2019, Leipzig. <a href="https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16202" target="_blank">Abstract</a>
 
 ### 2018
 
