@@ -7,6 +7,8 @@ title: Publications
 
 ### 2019
 
+Higman, R., **Bangert, D.**, Jones, S. (2019). Three camps, one destination: the intersections of research data management, FAIR and Open. *Insights, 32*(1). <a href="http://doi.org/10.1629/uksg.468" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Publisher Version</a><span class="__dimensions_badge_embed__" data-doi="10.1629/uksg.468" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 **Bangert, D.** (2019). Bach chamber music. *Early Music*. <a href="https://doi.org/10.1093/em/caz029" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a><span class="__dimensions_badge_embed__" data-doi="10.1093/em/caz029" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 Leinweber, K. & **Bangert, D.** (2019, March). *Moderne Hands-on Workshops mithilfe der Software/Data/Library Carpentries.* 108th Deutscher Bibliothekartag & 7th Bibliothekskongress 2019, Leipzig. <a href="https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/16202" target="_blank">Abstract and slides</a>
