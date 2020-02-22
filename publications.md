@@ -5,7 +5,15 @@ title: Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+### 2020
+
+**Bangert, D.**, Fava, I., O'Connor, R., Jones, S., Delipalta, A., Garavelli, S., & Biro, T. (2020). *Report on RDA integration with other European initiatives*. <a href="https://doi.org/10.5281/zenodo.3630264" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.4225/53/597e854758396" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+**Bangert, D.**, Davidson, J., Diggs, S., Grootveld, M., Huigens, F., Muftić, S. … Venkataraman, S. (2020). *The CODATA-RDA Data Steward school*. <a href="https://doi.org/10.5281/zenodo.3609204" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.4225/53/597e854758396" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 ### 2019
+
+**Bangert, D.**, Hermans, E., van Horik, R., de Jong, M., Koers, H., & Mokrane, M. (2019). Recommendations for Services in a FAIR data ecosystem. Zenodo. <a href="https://doi.org/10.5281/zenodo.3585741" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.4225/53/597e854758396" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 Higman, R., **Bangert, D.**, Jones, S. (2019). Three camps, one destination: the intersections of research data management, FAIR and Open. *Insights, 32*(1). <a href="http://doi.org/10.1629/uksg.468" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Publisher Version</a><span class="__dimensions_badge_embed__" data-doi="10.1629/uksg.468" data-hide-zero-citations="true" data-style="small_circle"></span>
 
