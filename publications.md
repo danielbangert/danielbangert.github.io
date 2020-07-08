@@ -7,7 +7,7 @@ title: Publications
 
 ### 2020
 
-Koers, H., **Bangert, D.**, Hermans, E., van Horik, R., de Jong, M., & Mokrane, M. (in press). Recommendations for Services in a FAIR data ecosystem. *Patterns*
+Koers, H., **Bangert, D.**, Hermans, E., van Horik, R., de Jong, M., & Mokrane, M. (2020). Recommendations for Services in a FAIR data ecosystem. *Patterns*. <a href="https://doi.org/10.1016/j.patter.2020.100058" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Publisher Version</a><span class="__dimensions_badge_embed__" data-doi="10.1016/j.patter.2020.100058" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 **Bangert, D.**, Fava, I., O'Connor, R., Jones, S., Delipalta, A., Garavelli, S., & Biro, T. (2020). *Report on RDA integration with other European initiatives*. <a href="https://doi.org/10.5281/zenodo.3630264" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.3630264" data-hide-zero-citations="true" data-style="small_circle"></span>
 
