@@ -2,17 +2,16 @@
 layout: page
 title: Projects
 ---
-### RDA Europe 4.0
-
-The <a href="https://www.rd-alliance.org/" target="_blank">Research Data Alliance (RDA)</a> is an international member-based organisation focused on the development of infrastructure and community activities to reduce the social and technical barriers to data sharing and re-use and to promote the acceleration of data driven innovation and discovery worldwide.
-
-<a href="https://www.rd-alliance.org/rda-europe" target="_blank">RDA Europe 4.0</a>, the European plug-in to RDA, is mandated to ensure that European political, research, industrial and digital infrastructure stakeholders are aware of, engaged with and actively involved in the global RDA activities.
-
-### FAIRsFAIR
-
-FAIRsFAIR: Fostering FAIR Data Practices in Europe is an EU-funded project involving 22 Partners across Europe with the ambition to assist the European Open Science Cloud (EOSC) governance bodies to deliver FAIR-aligned Rules of Participation in the EOSC. FAIRsFAIR will open up and share all knowledge, expertise, guidelines, implementations, new trajectories, courses and education needed to turn FAIR Principles into reality. The project will thus contribute to a culture change necessary to achieve wide adoption of FAIR practices within the EOSC and beyond.
 
 ### *Previous projects*
+
+#### RDA Europe 4.0
+
+The <a href="https://www.rd-alliance.org/" target="_blank">Research Data Alliance (RDA)</a> is an international member-based organisation focused on the development of infrastructure and community activities to reduce the social and technical barriers to data sharing and re-use and to promote the acceleration of data driven innovation and discovery worldwide. <a href="https://www.rd-alliance.org/rda-europe" target="_blank">RDA Europe 4.0</a>, the European plug-in to RDA, is mandated to ensure that European political, research, industrial and digital infrastructure stakeholders are aware of, engaged with and actively involved in the global RDA activities.
+
+#### FAIRsFAIR
+
+FAIRsFAIR: Fostering FAIR Data Practices in Europe is an EU-funded project involving 22 Partners across Europe with the ambition to assist the European Open Science Cloud (EOSC) governance bodies to deliver FAIR-aligned Rules of Participation in the EOSC. FAIRsFAIR will open up and share all knowledge, expertise, guidelines, implementations, new trajectories, courses and education needed to turn FAIR Principles into reality. The project will thus contribute to a culture change necessary to achieve wide adoption of FAIR practices within the EOSC and beyond.
 
 #### OpenAIRE-Advance
 

@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am currently a Scientific Manager at the <a href="https://www.sub.uni-goettingen.de/en/news/" target="_blank">Göttingen State and University Library</a>, working on European projects related to open science. I am the University of Göttingen project lead for <a href="https://www.rd-alliance.org/rda-europe" target="_blank">Research Data Alliance Europe 4.0</a> and contribute to <a href="https://www.fairsfair.eu/" target="_blank">FAIRsFAIR</a>. I hold qualifications in information management, music performance and musicology, including a PhD from UNSW Sydney. 
+I am currently Ireland's National Open Research Coordinator, based at the <a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>, Royal Irish Academy. In this role I work with the <a href="http://norf-ireland.net/" target="_blank">National Open Research Forum (NORF)</a> on the development and delivery of a National Action Plan for the implementation of open research across Ireland. My background is in academic libraries and research, and I hold qualifications in information management and musicology, including a PhD from UNSW Sydney. 
 
 <a href="https://orcid.org/0000-0003-4981-2870" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-4981-2870</a>
 
@@ -13,6 +13,5 @@ I am currently a Scientific Manager at the <a href="https://www.sub.uni-goetting
 - Research data management
 - FAIR data
 - Scholarly communication
-- Digital humanities
+- Digital musicology
 - Linked Open Data
-- Music psychology
