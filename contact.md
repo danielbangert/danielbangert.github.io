@@ -15,3 +15,5 @@ Send an <a href="mailto:d.bangert@ria.ie">email</a>
 <a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>
 
 <a href="https://jlsc-pub.org/" target="_blank">Journal of Librarianship and Scholarly Communication</a>
+
+<a href="https://www.eosc.eu/advisory-groups/research-careers-recognition-and-credit" target="_blank">EOSC Task Force on research careers, recognition and credit</a>
