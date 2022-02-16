@@ -5,6 +5,14 @@ title: Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+### 2021
+
+NORF. (2021). *National Open Research Landscape Report*. <a href="https://doi.org/10.7486/DRI.5q485c938" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+NORF. (2021). *NORF Policy Briefs*. <a href="https://doi.org/10.7486/DRI.tq582g161" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.tq582g161" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+**Bangert, D.** (2021). Touring the European Baroque. *Early Music*. <a href="https://doi.org/10.1093/em/caab021" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a><span class="__dimensions_badge_embed__" data-doi="10.1093/em/caab021" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 ### 2020
 
 Simons, N., Erdmann, C., **Bangert, D.**, & Murphy, F. (2020). *FAIR data in the scholarly communications lifecycle*. <a href="https://doi.org/10.5281/zenodo.3987051" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.3630264" data-hide-zero-citations="true" data-style="small_circle"></span>
