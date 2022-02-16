@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am currently Ireland's National Open Research Coordinator, based at the <a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>, Royal Irish Academy. In this role I work with the <a href="http://norf-ireland.net/" target="_blank">National Open Research Forum (NORF)</a> on the development and delivery of a National Action Plan for the implementation of open research across Ireland. 
+I am currently Ireland's National Open Research Coordinator, based at the <a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>, Royal Irish Academy. In this role I work with the <a href="http://norf.ie/" target="_blank">National Open Research Forum (NORF)</a> on the development and delivery of a National Action Plan for the implementation of open research across Ireland. 
 
 My background is in academic libraries and research. I hold qualifications in information management and musicology, including a PhD from UNSW Sydney. 
 
