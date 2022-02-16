@@ -10,7 +10,7 @@ Send an <a href="mailto:d.bangert@ria.ie">email</a>
 
 ### Links
 
-<a href="http://norf-ireland.net/" target="_blank">National Open Research Forum (NORF)</a>
+<a href="http://norf.ie" target="_blank">National Open Research Forum (NORF)</a>
 
 <a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>
 
