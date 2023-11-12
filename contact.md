@@ -2,7 +2,7 @@
 layout: page
 title: Contact Me
 ---
-Send an <a href="mailto:d.bangert@ria.ie">email</a> 
+Send an <a href="mailto:d.f.bangert@tudelft.nl">email</a> 
 
 <a href="https://twitter.com/enigmaticocean" class="twitter-follow-button" data-show-count="false">Follow @enigmaticocean</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -10,10 +10,5 @@ Send an <a href="mailto:d.bangert@ria.ie">email</a>
 
 ### Links
 
-<a href="http://norf.ie" target="_blank">National Open Research Forum (NORF)</a>
+<a href="https://data.4tu.nl/" target="_blank">4TU.ResearchData</a>
 
-<a href="https://dri.ie/" target="_blank">Digital Repository of Ireland</a>
-
-<a href="https://jlsc-pub.org/" target="_blank">Journal of Librarianship and Scholarly Communication</a>
-
-<a href="https://www.eosc.eu/advisory-groups/research-careers-recognition-and-credit" target="_blank">EOSC Task Force on research careers, recognition and credit</a>

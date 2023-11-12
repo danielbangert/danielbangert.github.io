@@ -5,6 +5,14 @@ title: Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+### 2023
+
+Brown, C., Simons, N., **Bangert, D.**, & Sadler, S. (2023). *RDA National PID Strategies Guide and Checklist*. <a href="https://doi.org/10.15497/RDA/00091" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+### 2022
+
+NORF. (2022). *National Action Plan for Open Research*. <a href="https://doi.org/10.7486/DRI.ff36jz222" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 ### 2021
 
 NORF. (2021). *National Open Research Landscape Report*. <a href="https://doi.org/10.7486/DRI.5q485c938" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
