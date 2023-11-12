@@ -7,7 +7,7 @@ title: Publications
 
 ### 2023
 
-Brown, C., Simons, N., **Bangert, D.**, & Sadler, S. (2023). *RDA National PID Strategies Guide and Checklist*. <a href="https://doi.org/10.15497/RDA/00091" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
+Brown, C., Simons, N., **Bangert, D.**, & Sadler, S. (2023). *RDA National PID Strategies Guide and Checklist*. <a href="https://doi.org/10.15497/RDA/00091" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 ### 2022
 
@@ -59,9 +59,9 @@ Mannheimer, S., **Bangert, D.**, & Coates, H. (2017, October). *Libraries collab
 
 **Bangert, D.**, Nurmikko-Fuller, T., Dix, A., Weigl, D., & Page, K. (2017, October). *InConcert and JazzCats: Workflows for aggregating music performance data.* Music Performance Ephemera Workshop, Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB).
 
-**Bangert, D.**, Frances, M., & Sidhunata, H. (2017, October). *Designing institutional services for persistent identifiers.* eResearch Australasia 2017, Brisbane. 
+**Bangert, D.**, Frances, M., & Sidhunata, H. (2017, October). *Designing institutional services for persistent identifiers.* eResearch Australasia 2017, Brisbane.
 
-**Bangert, D.**, Nurmikko-Fuller, T., & Dix, A. (2017, October). *Linked Data for musicology: Prototypes and opportunities.* Musicology in the Digital Age, Musicological Society of Australia Study Day, UNSW Sydney. 
+**Bangert, D.**, Nurmikko-Fuller, T., & Dix, A. (2017, October). *Linked Data for musicology: Prototypes and opportunities.* Musicology in the Digital Age, Musicological Society of Australia Study Day, UNSW Sydney.
 
 Nurmikko-Fuller, T., **Bangert, D.**, & Abdul-Rahman, A. (2017, August). *All the things you are: Accessing an enriched musicological prosopography through JazzCats.* Digital Humanities 2017, Montreal. <a href="https://dh2017.adho.org/abstracts/305/305.pdf" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Publisher Version</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_46179" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a>
 
@@ -105,7 +105,7 @@ Garrido, S., Schubert, E., & **Bangert, D.** (2016). Musical prescriptions for m
 
 **Bangert, D.**, Schubert, E., & Fabian, D. (2014). A spiral model of musical decision-making. *Frontiers in Psychology, 5.* <a href="https://doi.org/10.3389/fpsyg.2014.00320" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Publisher Version</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_45551" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.3389/fpsyg.2014.00320" data-hide-zero-citations="true" data-style="small_circle"></span>
 
-**Bangert, D.**, Fabian, D., Schubert, E., & Yeadon, D. (2014). Performing solo Bach: A case study 
+**Bangert, D.**, Fabian, D., Schubert, E., & Yeadon, D. (2014). Performing solo Bach: A case study
 of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://doi.org/10.1177/1029864913509812" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Closed_Access_logo_white.svg/20px-Closed_Access_logo_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Closed Access logo PLoS">Publisher Version</a> <a href="http://handle.unsw.edu.au/1959.4/unsworks_46186" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Repository</a><span class="__dimensions_badge_embed__" data-doi="10.1177/1029864913509812" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 ### 2013
@@ -118,13 +118,13 @@ of musical decision-making. *Musicae Scientiae, 18*(1), 35-52. <a href="https://
 
 ### 2010
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, & P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, WA: University of Washington. 
+**Bangert, D.**, Schubert, E., & Fabian, D. (2010). Historically informed practice: Musical decision-making in Baroque violin music. In S. Demorest, S. Morrison, & P. Campbell (Eds.), *ICMPC11: 11th International Conference of Music Perception and Cognition* (pp. 313-314). Seattle, WA: University of Washington.
 
 ### 2009
 
 **Bangert, D.** (2009). Doing without thinking? Aspects of musical decision-making. In A. Williamon, S. Pretty, & R. Buck (Eds.), *Proceedings of the International Symposium on Performance Science* (pp. 403-408). Utrecht, The Netherlands: European Association of Conservatoires (AEC). <a href="http://www.performancescience.org/ISPS2009/Proceedings/Rows/067Bangert.pdf" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Publisher Version</a>
 
-**Bangert, D.**, Schubert, E., & Fabian, D. (2009). Decision-making in unpracticed and practiced 
+**Bangert, D.**, Schubert, E., & Fabian, D. (2009). Decision-making in unpracticed and practiced
 performances of Baroque violin music. In C. Stevens, E. Schubert, B. Kruithof, K. Buckley, & S. Fazio (Eds.), *Proceedings of the International Conference on Music Communication Science* (pp. 3-6). Sydney: HCSNet, University of Western Sydney. <a href="http://www.academia.edu/download/44721735/Decision-making_in_unpracticed_and_pract20160414-5140-zwro62.pdf" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS transparent">Academia.edu</a>
 
 
@@ -132,5 +132,3 @@ performances of Baroque violin music. In C. Stevens, E. Schubert, B. Kruithof, K
 <!-- ### Footer
 
 Last updated: May 2017 -->
-
-
