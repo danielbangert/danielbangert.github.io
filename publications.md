@@ -5,6 +5,16 @@ title: Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+### 2026
+
+**Bangert, D.**, Groep, D., Maassen, J., & Ostermann, F.  (2026). *Enabling FAIR for AI: Infrastructure for Transparency and Reproducibility of Research Software*. <a href="https://doi.org/10.5281/zenodo.19799196" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.19799196" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+### 2025
+
+**Bangert, D.** & de Smaele, M.  (2025). *Celebrating 15 Years of 4TU.ResearchData*. <a href="https://doi.org/10.5281/zenodo.14882923" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.14882923" data-hide-zero-citations="true" data-style="small_circle"></span>
+
+4TU.ResearchData (2025). *4TU.ResearchData Strategy 2025-2029*. <a href="https://doi.org/10.5281/zenodo.14176779" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.14176779" data-hide-zero-citations="true" data-style="small_circle"></span>
+
 ### 2023
 
 Brown, C., Simons, N., **Bangert, D.**, & Sadler, S. (2023). *RDA National PID Strategies Guide and Checklist*. <a href="https://doi.org/10.15497/RDA/00091" target="_blank" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/20px-Open_Access_logo_PLoS_white.svg.png" img width="10" img style="margin: 0px 3px 0px 0px" alt="Open Access logo PLoS">Zenodo</a><span class="__dimensions_badge_embed__" data-doi="10.7486/DRI.5q485c938" data-hide-zero-citations="true" data-style="small_circle"></span>
